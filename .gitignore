@@ -1,3 +1,8 @@
 .env
 __pycache__/
+<<<<<<< Updated upstream
 .python-version
+=======
+
+line-gpt-6b7e3-firebase-adminsdk-b72ie-3f5a740a66.json
+>>>>>>> Stashed changes
